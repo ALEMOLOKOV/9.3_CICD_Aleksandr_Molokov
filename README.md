@@ -68,7 +68,7 @@
 ![Nexus артефакты загружуны](https://user-images.githubusercontent.com/109212419/225992744-cfd28ad1-4fae-47c1-8608-ccff1df55a2d.jpg)
 
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
-![maven-metadata.xml]()
+![maven-metadata.xml](https://github.com/ALEMOLOKOV/9.3_CICD_Aleksandr_Molokov/blob/main/maven-metadata.xml)
 
 ### Знакомство с Maven
 
