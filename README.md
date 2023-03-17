@@ -93,4 +93,4 @@
 
 4. В ответе пришлите исправленный файл `pom.xml`.
 
-![pom.xml]()
+![pom.xml](https://github.com/ALEMOLOKOV/9.3_CICD_Aleksandr_Molokov/blob/main/pom.xml)
